@@ -36,7 +36,6 @@ for a list of known issues and to find out how you can help.
 
 Additionally, for a list of common Linux installation issues and workarounds you can [visit this guide](https://github.com/adobe/brackets/wiki/Brackets-Linux-Guide).
 
-
 #### Usage
 
 By default, Brackets opens a folder containing some simple "Getting Started" content.
