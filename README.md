@@ -36,7 +36,6 @@ for a list of known issues and to find out how you can help.
 
 Additionally, for a list of common Linux installation issues and workarounds you can [visit this guide](https://github.com/adobe/brackets/wiki/Brackets-Linux-Guide).
 
-
 #### Usage
 
 By default, Brackets opens a folder containing some simple "Getting Started" content.
@@ -123,3 +122,5 @@ Not sure you needed the exclamation point there, but we like your enthusiasm.
 ---
 
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/adobe/brackets/blob/master/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+
+Example for commit.
